@@ -4,14 +4,14 @@
 01. MODEL 1
   
 1. MODEL
-![01_01](https://user-images.githubusercontent.com/81245556/173179642-7b432c16-c2b9-484f-a055-9d000dc48be0.PNG){: left="0%"}
-![01_02](https://user-images.githubusercontent.com/81245556/173179657-56bb4edd-2771-4278-a68c-941032c85d8e.PNG){: left="0%"}
+![01_01](https://user-images.githubusercontent.com/81245556/173179642-7b432c16-c2b9-484f-a055-9d000dc48be0.PNG)
+![01_02](https://user-images.githubusercontent.com/81245556/173179657-56bb4edd-2771-4278-a68c-941032c85d8e.PNG)
   
  
  
  
 2. Training with Training loss
-![02_01](https://user-images.githubusercontent.com/81245556/173179676-eaddd816-fbcc-4b9b-b5d5-1ccd6ee562a6.PNG){: left="0%"}
+![02_01](https://user-images.githubusercontent.com/81245556/173179676-eaddd816-fbcc-4b9b-b5d5-1ccd6ee562a6.PNG)
 
 
 
