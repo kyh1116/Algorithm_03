@@ -11,7 +11,8 @@
  
  
 002. Training with Training loss
-![image](https://user-images.githubusercontent.com/81245556/173180315-67c3d8a5-6479-4d43-8d67-2c4cbe917650.png)
+![01](https://user-images.githubusercontent.com/81245556/173180353-9a662d0b-ad32-41e0-a949-92f549bbbd22.png)
+
 
 
 
