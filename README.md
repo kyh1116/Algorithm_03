@@ -60,7 +60,7 @@
 
 
 004. Images and corresponding probability that predicted Right
-![04_01](https://user-images.githubusercontent.com/81245556/173179824-2f254056-ffd5-4adb-9ab6-b938248105dc.PNG)
+![04_01](https://user-images.githubusercontent.com/81245556/173180278-bbef59a2-610c-409c-ada1-8b8233270db7.PNG)
 
 
 
